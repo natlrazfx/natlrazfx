@@ -45,3 +45,4 @@ Creates Shuffle nodes for available layers, making multi-layer comps faster to s
 - Reel / VFX work: https://vimeo.com/nataliaraz
 - Upwork: https://www.upwork.com/freelancers/~01347aa39949906fb8
 - LinkedIn: https://www.linkedin.com/in/natalia-raz-0b8329120
+- Aescripts: https://aescripts.com/shotlist-creator-for-davinci-resolve/
