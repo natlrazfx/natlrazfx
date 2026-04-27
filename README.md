@@ -2,17 +2,7 @@
 
 VFX Compositor working across cleanup, tracking, screen replacement, CG integration, and shot finishing.
 
-I also build practical Python tools and AI-assisted workflows around compositing: small utilities that reduce repetitive setup, make shot preparation cleaner, and help move shots through Nuke, DaVinci Resolve, and ComfyUI without losing control of the final image.
-
-## Focus
-
-- VFX compositing for cleanup, keying, tracking, and integration
-- Screen replacement, object removal, and difficult shot repair
-- Nuke / Nuke Studio workflow tools
-- DaVinci Resolve pipeline and finishing helpers
-- ComfyUI workflows for AI-assisted plate work, cleanup, and look development
-- Shot preparation, cut detection, and frame range utilities
-- AI-assisted workflows when they help the final composite, not replace judgment
+This GitHub collects practical tools and experiments I build around compositing: Nuke utilities, DaVinci Resolve workflow helpers, and controlled ComfyUI setups for AI-assisted plate work.
 
 ## Pipeline Areas
 
